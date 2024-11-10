@@ -8,7 +8,7 @@ This project provides an in-depth analysis of loan applications, funding trends,
 The goal is to generate actionable insights about loan application volume, funded amounts, repayment rates, loan quality (good vs. bad loans), and demographic breakdowns such as state and employment length. 
 This data-driven approach will support decision-making in optimizing loan approval processes, identifying trends, and enhancing customer segmentation.
 
-![Library_project](https://github.com/dsmohiit/Library_Management_Project_SQL/blob/main/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png)
+![Library_project](https://github.com/dsmohiit/Loan_Disbursment_Analysis/blob/main/istockphoto-1415184001-612x612.jpg)
 
 ## Objectives
 
